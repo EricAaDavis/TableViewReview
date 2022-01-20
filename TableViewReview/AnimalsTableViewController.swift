@@ -24,9 +24,9 @@ class AnimalsTableViewController: UITableViewController {
         Animal(animal: "🐘", animalName: "Elephant"),
         Animal(animal: "🐖", animalName: "Pig"),
         Animal(animal: "🦢", animalName: "Swan"),
-        Animal(animal: "🦬", animalName: "Bull"),
+        Animal(animal: "🦬", animalName: "Bison"),
         Animal(animal: "🐝", animalName: "Bee"),
-        Animal(animal: "🐛", animalName: "Larva"),
+        Animal(animal: "🐛", animalName: "Bug"),
         Animal(animal: "🐓", animalName: "Rooster")
     ]
     
